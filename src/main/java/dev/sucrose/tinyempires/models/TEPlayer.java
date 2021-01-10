@@ -8,7 +8,6 @@ import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 import org.bukkit.scoreboard.*;
-import sun.jvm.hotspot.debugger.NoSuchSymbolException;
 
 import java.util.HashMap;
 import java.util.List;

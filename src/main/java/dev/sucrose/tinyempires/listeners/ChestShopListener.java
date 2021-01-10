@@ -22,7 +22,6 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.PlayerInventory;
 import org.bukkit.util.Vector;
-import sun.jvm.hotspot.debugger.NoSuchSymbolException;
 
 import java.util.UUID;
 
